@@ -10,7 +10,7 @@ Skills: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-
 - 🌱 I’m currently learning Backend Technologies 
 - 👯 I’m looking to collaborate on Web Development 
 - 💬 Ask me about Web Development 
-
+- Connect with me 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shihab91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shihab-shumon-5a8202216/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdshihab.shumon.3 )  
 
