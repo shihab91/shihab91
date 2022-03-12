@@ -9,8 +9,9 @@ I am a Front End developer with industry experience building websites and web ap
 
 ## My Skills
 
-![HTML5asdf](https://img.icons8.com/color/344/html-5--v1.png) ![CSS](https://img.icons8.com/color/344/css3.png) ![Bootstrap](https://img.icons8.com/color/344/bootstrap.png) ![TailwindCSS](https://i.ibb.co/gT29Kkp/tailwind-css.png) ![MUI](https://img.icons8.com/color/344/material-ui.png) ![JavaScript](https://img.icons8.com/color/344/javascript--v1.png) ![ReactJS](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png) and many more
- 
+ <img src="https://img.icons8.com/color/344/html-5--v1.png" width="50" title="HTML"> <img src="https://img.icons8.com/color/344/css3.png" width="50" title="CSS"> 
+ <img src="https://img.icons8.com/color/344/bootstrap.png" width="50" title="BOOTSTRAP"> <img src="https://i.ibb.co/gT29Kkp/tailwind-css.png" width="50" title="Tailwind CSS"> <img src="https://img.icons8.com/color/344/material-ui.png" width="50" title="Material UI"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50" title="JavaScript"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="50" title="React JS">
+  
 ## Connect with me 
 
 [<img src='https://img.icons8.com/fluency/344/github.png' alt='github' height='40'>](https://github.com/shihab91)   [<img src='https://img.icons8.com/color/45/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/shihab-shumon-5a8202216/)    [<img src='https://img.icons8.com/fluency/344/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/mdshihab.shumon.3 )    [<img src='https://img.icons8.com/cute-clipart/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/shumon_shihab )
