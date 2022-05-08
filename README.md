@@ -1,6 +1,6 @@
 # UNDER CONSTRUCTION
 
-![I am a Web Developer](https://i.ibb.co/KzTt4fj/68747470733a2f2f692e6962622e636f2f646658785374302f626b756464696e2e706e67.png)
+<img src="https://wallpapercave.com/dwp1x/wp8725091.jpg" width="100%">
 
 ### Hi there 👋, I am MD Shihab Shumon
 ####  Web Developer
@@ -10,7 +10,7 @@ I am a Front End developer with industry experience building websites and web ap
 ## My Skills
 
  <img src="https://img.icons8.com/color/344/html-5--v1.png" width="50" title="HTML"> <img src="https://img.icons8.com/color/344/css3.png" width="50" title="CSS"> 
- <img src="https://img.icons8.com/color/344/bootstrap.png" width="50" title="BOOTSTRAP"> <img src="https://i.ibb.co/gT29Kkp/tailwind-css.png" width="50" title="Tailwind CSS"> <img src="https://img.icons8.com/color/344/material-ui.png" width="50" title="Material UI"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50" title="JavaScript"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="50" title="React JS">
+ <img src="https://img.icons8.com/color/344/bootstrap.png" width="50" title="BOOTSTRAP"> <img src="https://i.ibb.co/gT29Kkp/tailwind-css.png" width="50" title="Tailwind CSS"> <img src="https://img.icons8.com/color/344/material-ui.png" width="50" title="Material UI"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="50" title="JavaScript"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" width="50" title="React JS"> <img src="https://img.icons8.com/color/2x/4a90e2/redux.png" width="50" title="Redux"> 
   
 ## Connect with me 
 
@@ -25,7 +25,3 @@ I am a Front End developer with industry experience building websites and web ap
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shihab91)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shihab91)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shihab91)  
-
-![Profile views](https://gpvc.arturio.dev/shihab91)  
