@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am MD Shihab Shumon
 
-I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React.js. I also have experience working with Bootstrap,Node JS , Express JS , MongoDB,  Firebase Authentication, Tailwind,React Router Dom, Material UI. Take a look at my work or get in touch!
+I am a Front End developer with experience building websites and web applications. I specialize in JavaScript and also React.js . I also have experience working with Bootstrap,Node JS , Express JS , MongoDB,  Firebase Authentication, Tailwind,React Router Dom, Material UI. Take a look at my work or get in touch!
 
 ## &#8594; My Skills
  <br/>
