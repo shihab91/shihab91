@@ -22,7 +22,6 @@ I am a Front End developer with experience building websites and web application
 <br/>
 
 # 📊 GitHub Stats :
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shihab91&hide_border=true&theme=redical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihab91&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
